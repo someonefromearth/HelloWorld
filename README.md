@@ -1,8 +1,8 @@
 /**
 * Homework. Java 1. Lesson 1.
 *
-*@author Vasily Kozlikin
-*@version 12 August 2018
+* @author Vasily Kozlikin
+* @version 12 August 2018
 *
 */
 
