@@ -3,7 +3,6 @@
 *
 *@author Vasily Kozlikin
 *@version 12 August 2018
-*
 */
 
   class HomeworkFirstLesson {
